@@ -7,7 +7,7 @@ int main(){
 
     vi a;
     int b=5;
-    for(int i=0; i<b; i++){
+    for(int  i=0; i<b; i++){
         int x; cin>>x;
         a.push_back(x);
     }
